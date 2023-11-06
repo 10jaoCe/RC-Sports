@@ -133,3 +133,14 @@ td, th {
 border: 1px solid #000000;
 padding: 5px 20px;
 }
+.enviar{
+  with:40%:
+ padding: 15px 0;
+  background: orange;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  tranition: 1s all;
+  cursor: pointer;
