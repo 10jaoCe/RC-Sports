@@ -157,3 +157,8 @@ table{
     background: #555555;
     color:white;
     ont-weight:bold;
+
+    td, th{
+      border: 1px solid #000000;
+      padding: 8px 15px;
+    }
